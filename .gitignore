@@ -1,3 +1,7 @@
-*~
-.claude/
-.idea/
+# すべて無視してから、リリースに必要なものだけ許可
+/*
+!/.gitignore
+!/index.html
+!/style.css
+!/images
+!/images/**
